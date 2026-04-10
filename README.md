@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Alex! 👋
 
-<!--
-**alexivanov45/alexivanov45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build smart tools for cryptocurrency trading and market analysis. Based in Austin, USA, I focus on designing systems that handle large datasets, detect patterns, and automate trading decisions in real time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Core Skills:
+- 💻 **Programming:** Python, Go, Rust, JavaScript  
+- 🌐 **APIs & Integrations:** Binance, Kraken, Coinbase Pro, WebSocket, REST  
+- 🧠 **Data Science & ML:** Pandas, NumPy, PyTorch (for backtesting and predictive modeling)  
+- 🛠 **DevOps & Tools:** Docker, Kubernetes, Git, PostgreSQL, Redis  
+- ⚡ **Blockchain:** Ethereum, Smart Contracts, Solidity, DeFi exploration  
+
+---
+
+### 🌱 Currently Diving Into:
+- High-frequency trading strategies  
+- On-chain analytics and DeFi automation  
+- Scalable backtesting frameworks  
+
+---
+
+### 💬 Let’s Connect:
+- [LinkedIn](https://www.linkedin.com/in/alex-ivanov)  
+- [Twitter](https://twitter.com/alex_crypto)
